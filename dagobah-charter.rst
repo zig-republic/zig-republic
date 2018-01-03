@@ -138,7 +138,7 @@ Treat your other guild members kindly and support their farming efforts.
 Treat your officers with respect.
 They put in many hours of effort each week to keep Dagobah operating smoothly.
 Keep it PG-13 in #dagobah_chat.
-Don't make us being the @👑Swamp King👑 into this...
+Don't make us bring the @👑Swamp King👑 into this...
 
 .. image:: bigsuejackson.gif
 
