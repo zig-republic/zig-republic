@@ -24,31 +24,31 @@ Tickets Due (2 hours before reset)
 Officers
 ========
 
-Guild Leader: zig
+**Guild Leader**: zig
     Responsible for leading the officer corps, chairing guild meetings, and the overall success of the guild.
 
-Community Relations Officer: (vacant)
-    Responsible for maintaining close ties with other Republic guilds, arranging player transfers, acting as the guild's chief of staff, and serving as guild leader *pro tempore* in the event of the guild leader's absence.
+**Community Relations Officer**: (vacant)
+    Responsible for maintaining close ties with other Republic guilds, arranging player transfers, acting as the guild leader's chief of staff, and serving as guild leader *pro tempore* in the event of the guild leader's absence.
 
-Officer in Charge of Raids: beefstew
+**Officer in Charge of Raids**: beefstew
     Responsible for maintaining the raid schedule, raiding records, and assigning Bievers.
 
-Officer in Charge of Territory Battles: Pone
+**Officer in Charge of Territory Battles**: Pone
     Responsible for the overall Territory Battle strategy, platoon orders, and assigning CM, Platoon, and deployment strikes.
 
-Officer in Charge of Territory Wars: (vacant)
+**Officer in Charge of Territory Wars**: (vacant)
     Responsible for Territory Wars defense/attack plans and assigning violation strikes.
 
-Officer in Charge of Ticket Monitoring: Chocolate
+**Officer in Charge of Ticket Monitoring**: Chocolate
     Responsible for coordinating who will be tracking tickets each day as well as approving alts and assigning ticket strikes.
 
-Officer in Charge of Recruiting: Calliope
+**Officer in Charge of Recruiting**: Calliope
     Responsible for coordinating recruiting efforts with the GL and CRO on The Republic Embassy server, ensuring recruits are prepared to meet our standards, and providing invites and orientation to new recruits upon joining Dagobah.
 
-Officer in Charge of Journalism and Morale: Energi
+**Officer in Charge of Journalism and Morale**: Energi Storm
     Responsible for tracking roster development, squad and fleet arena performance, generating morale boosting media and farming goals to promote high participation from guild members, and assigning the @🐍Dagobah Dragonsnakes🐍 tag each month to members that meet the previous month's farming goals.
 
-General Officers: Escobar, Adam3700
+**General Officers**: Escobar, Adam3700
     Responsible for assisting other officers in their duties as needed, especially ticket monitoring.
 
 General Rules
