@@ -36,7 +36,7 @@ Officer in Charge of Raids: beefstew
     Responsible for maintaining the raid schedule, raiding records, and assigning Bievers.
 
 Officer in Charge of Territory Battles: Pone
-    Responsible for the overall Territory Battle strategy, platoon orders, and assigning CM, Platoon, and deployment strikes.
+    Responsible for the overall Territory Battle strategy, platoon orders, and assigning CM, platoon, and deployment strikes.
 
 Officer in Charge of Territory Wars: (vacant)
     Responsible for Territory Wars defense/attack plans and assigning violation strikes.
@@ -48,7 +48,7 @@ Officer in Charge of Recruiting: Calliope
     Responsible for coordinating recruiting efforts with the GL and CRO on The Republic Embassy server, ensuring recruits are prepared to meet our standards, and providing invites and orientation to new recruits upon joining Dagobah.
 
 Officer in Charge of Journalism and Morale: Energi Storm
-    Responsible for tracking roster development, squad and fleet arena performance, generating morale boosting media and farming goals to promote high participation from guild members, and assigning the @🐍Dagobah Dragonsnakes🐍 tag each month to members that meet the previous month's farming goals.
+    Responsible for tracking roster development, squad and fleet arena performance, generating morale boosting media and farming goals to promote high participation from guild members, and assigning the @🐍Dagobah Dragonsnakes🐍 tag each month to members that met the previous month's farming goals.
 
 General Officers: Escobar, Adam3700
     Responsible for assisting other officers in their duties as needed, especially ticket monitoring.
@@ -82,7 +82,7 @@ Raids
 -----
 Raids run on a tight schedule that maximizes our ticket utilization.
 You can find it in the #dagobah_raid_schedule channel.
-Members are required to strictly adhere to both the schedule and the `Rules of Engagement`_ (see below).
+Members are required to strictly adhere to both the schedule and the `Rules of Engagement`_.
 Missing a raid entirely earns you the dreaded Biever avatar (see `Justin Biever`_).
 
 Territory Battles
@@ -91,17 +91,19 @@ Dagobah's main focus for development is Territory Battles, so it's imperative th
 Combat missions are required because they are the most efficient way to maximize our star count.
 Platoon orders will be posted to the #dagobah_tb_orders channel.
 Deployment orders will be posted to the #dagobah_annoucements channel.
-See `Rules of Engagement`_ for more information.
+See the `Territory Battles Rules of Engagement`_ for more information.
 
 Territory Wars
 --------------
 Territory Wars is optional on Dagobah.
 However, members that do join are required to participate.
-See `Rules of Engagement`_ for more information.
+See the `Territory Wars Rules of Engagement`_ for more information.
 
 Strikes
 -------
 Dagobah uses a three strike system to determine if and when a member should be removed to make room for a new recruit. 
+Individual strikes come with no additional penalty, but reaching three strikes will result in removal from the guild.
+The officers will do their best to help you find alternate placement if that situation arises.
 The following actions earn a strike:
 
 * failure to complete your 600 by 2 hours before reset
@@ -129,35 +131,46 @@ See below for the infamous picture.
 
 .. image:: justin-biever.png
 
+Decorum
+-------
+Common courtesy is an absolute requirement of membership in Dagobah.
+Treat your other guild members kindly and support their farming efforts.
+Treat your officers with respect.
+They put in many hours of effort each week to keep Dagobah operating smoothly.
+Keep it PG-13 in #dagobah_chat.
+Don't make us being the @👑Swamp King👑 into this...
+
+.. image:: bigsuejackson.gif
+
 Rules of Engagement
 ===================
 
-Rancor
-------
+Rancor Rules of Engagement
+--------------------------
 * Opens for a 24 hour 0 period immediately after launch.
 
 * The free for all starts 24 hours after launch.
 
 * Wait 20 minutes if posting more than 1 million damage.
 
-HAAT
-----
+HAAT Rules of Engagement
+------------------------
 * P1-3 are free for all immediately after launch.
 
 * P4 opens 24 hours after launch.
 
 * Wait 5 minutes if posting more than 25% of P4.
 
-Territory Battles
------------------
+Territory Battles Rules of Engagement
+-------------------------------------
 * Follow all platoons orders.
 
 * Attempt all Combat Missions.
 
 * Deploy as directed.
 
-Territory Wars (for those who opt in)
--------------------------------------
+Territory Wars Rules of Engagement
+----------------------------------
 * Follow the strategy as indicated on Discord.
 
 * Deploy at least 3 defensive squads and 1 defensive fleet. These can be exclusively junk squads as long as they're in the right zones.
