@@ -7,7 +7,7 @@ DAGOBAH CHARTER
 Mission
 =======
 
-To develop a guild stationed on the purest and swampiest of planets within The Force, to focus on maximizing member progression through consistent raiding and a strong focus on Territory Battles, and to create a friendly and inviting environment with a focus on positivity and empowerment through cooperation. 
+To develop a guild stationed on the purest and swampiest of planets within the Force, to focus on maximizing member progression through consistent raiding and a strong focus on Territory Battles, and to create a friendly and inviting environment with a focus on positivity and empowerment through cooperation. 
 
 Key Information
 ===============
@@ -29,10 +29,10 @@ Officers
 Guild Leader: zig
     Responsible for leading the officer corps, chairing guild meetings, and the overall success of the guild.
 
-Community Relations Officer: (vacant)
-    Responsible for maintaining close ties with other Republic guilds, arranging player transfers, acting as the guild leader's chief of staff, and serving as guild leader *pro tempore* in the event of the guild leader's absence.
+Community Relations Officer: Pone
+    Responsible for maintaining close ties with other Republic guilds and a presense in the Large Council, arranging player transfers, and serving as guild leader *pro tempore* in the event of the guild leader's absence.
 
-Officer in Charge of Raids: beefstew
+Officer in Charge of Raids: Calliope (acting)
     Responsible for maintaining the raid schedule, raiding records, and assigning Bievers.
 
 Officer in Charge of Territory Battles: Pone
@@ -48,10 +48,10 @@ Officer in Charge of Recruiting: Calliope
     Responsible for coordinating recruiting efforts with the GL and CRO on The Republic Embassy server, ensuring recruits are prepared to meet our standards, and providing invites and orientation to new recruits upon joining Dagobah.
 
 Officer in Charge of Journalism and Morale: Energi Storm
-    Responsible for tracking roster development, squad and fleet arena performance, generating morale boosting media and farming goals to promote high participation from guild members, and assigning the @🐍Dagobah Dragonsnakes🐍 tag each month to members that met the previous month's farming goals.
+    Responsible for tracking player development, acting as editior-in-chief the Swamp Street Journal, and assigning the ``@🐍Dagobah Dragonsnakes🐍`` tag each month to members that met the previous month's farming goals.
 
 General Officers: Escobar, Adam3700
-    Responsible for assisting other officers in their duties as needed, especially ticket monitoring.
+    Responsible for assisting other officers in their duties as needed.
 
 General Rules
 =============
@@ -78,10 +78,12 @@ These tickets will be due 2 hours before guild reset.
 After that time, you risk being removed for an alt.
 Members will not be removed for tickets during a Territory Battle except in the event of a third strike.
 
+.. caution:: The window for resets after TB is frequently very small. If you missed your 600 during TB, make sure to log on and claim your rewards as early as possible to prevent losing them!
+
 Raids
 -----
 Raids run on a tight schedule that maximizes our ticket utilization.
-You can find it in the #dagobah_raid_schedule channel.
+You can find the schedule in the ``#dagobah_raid_schedule`` channel.
 Members are required to strictly adhere to both the schedule and the `Rules of Engagement`_.
 Missing a raid entirely earns you the dreaded Biever avatar (see `Justin Biever`_).
 
@@ -89,8 +91,8 @@ Territory Battles
 -----------------
 Dagobah's main focus for development is Territory Battles, so it's imperative that members participate fully and carefully follow orders.
 Combat missions are required because they are the most efficient way to maximize our star count.
-Platoon orders will be posted to the #dagobah_tb_orders channel.
-Deployment orders will be posted to the #dagobah_annoucements channel.
+Platoon orders will be posted to the ``#dagobah_tb_orders`` channel.
+Deployment orders will be posted to the ``#dagobah_annoucements`` channel.
 See the `Territory Battles Rules of Engagement`_ for more information.
 
 Territory Wars
@@ -112,20 +114,20 @@ The following actions earn a strike:
 
     * posting damage to either raid outside of designated times
 
-    * assigning characters to platoons not marked safe in #dagobah_tb_orders
+    * assigning characters to platoons not marked safe in ``#dagobah_tb_orders``
 
     * failing to attempt CMs in any phase of TB
 
-    * failing to follow a TW Defense or Attack plan
+    * failing to follow a TW Plan of Attack/Defense
 
 Strikes expire one month from the day of the offense.
 Members cannot earn more than one strike per day.
 Members cannot earn a missed CMs strike in a TB phase where we've 3 starred all territories.
-If you cannot meet these requirements for any length of time, please post in #leave_of_absence tagging @DaOfficers.
+If you cannot meet these requirements for any length of time, please post in ``#leave_of_absence`` tagging ``@DaOfficers``.
 
 Justin Biever
 -------------
-As a means of boosting morale and participation, Dagobah assigns the Biever avatar to members who miss a raid entirely without giving prior notice in #leave_of_absence.
+As a means of boosting morale and participation, Dagobah assigns the Biever avatar to members who miss a raid entirely without giving prior notice in ``#leave_of_absence``.
 The Biever expires when the rewards drop for the next of the same raid type---two days for Rancor, three days for HAAT.
 See below for the infamous picture.
 
@@ -137,17 +139,22 @@ Common courtesy is an absolute requirement of membership in Dagobah.
 Treat your other guild members kindly and support their farming efforts.
 Treat your officers with respect.
 They put in many hours of effort each week to keep Dagobah operating smoothly.
-Keep it PG-13 in #dagobah_chat.
-Don't make us bring the @👑Swamp King👑 into this...
+Keep it PG-13 in ``#dagobah_chat``.
+Don't make us bring the 👑Swamp King👑 into this...
 
 .. image:: bigsuejackson.gif
+
+@🐍Dagobah Dragonsnakes🐍 
+-------------------------
+Every month the Dagobah leadership will choose a farming focus to promote roster development that helps the entire guild.
+Successful completion of the farming goals by the end of the month will earn a member the ``@🐍Dagobah Dragonsnakes🐍`` Discord tag for the following month.
 
 Rules of Engagement
 ===================
 
 Rancor Rules of Engagement
 --------------------------
-* Opens for a 24 hour 0 period immediately after launch.
+* Opens for a 24 hour 0 damage period immediately after launch.
 
 * The free for all starts 24 hours after launch.
 
@@ -155,11 +162,11 @@ Rancor Rules of Engagement
 
 HAAT Rules of Engagement
 ------------------------
-* P1-3 are free for all immediately after launch.
+* Opens for a 24 hour 0 damage period immediately after launch.
 
-* P4 opens 24 hours after launch.
+* The free for all starts 24 hours after launch.
 
-* Wait 5 minutes if posting more than 25% of P4.
+* There are no damage or time restrictions.
 
 Territory Battles Rules of Engagement
 -------------------------------------
@@ -173,52 +180,54 @@ Territory Wars Rules of Engagement
 ----------------------------------
 * Follow the strategy as indicated on Discord.
 
-* Deploy at least 3 defensive squads and 1 defensive fleet. These can be exclusively junk squads as long as they're in the right zones.
+* Deploy only teams meeting the requirements described on Discord.
 
-* Deploy only teams meeting the minimum requirements described on Discord.
-
-* Make a serious attempt at attacking. Contact @DaOfficers if you attempted to attack but lost all of your battles so we're aware you won't have any offensive banners earned.
+* Make a serious attempt at attacking. Contact the OiC of TWs if you attempted to attack but lost all of your battles so we're aware you won't have any offensive banners earned.
 
 Discord Map
 ===========
 
-#0----dagobah----0
+``#0----dagobah----0``
     Location of the charter, Biever avatar, and charter updates between revisions.
 
-#dagobah_announcements
+``#dagobah_announcements``
     Channel for officer announcements and orders.
 
-#dagobah_chat
+``#dagobah_chat``
     Channel for general chat.
 
-#dagobah_library
+``#dagobah_library``
     Theorycrafting resources and more for Dagobah members.
 
-#the_swamp_street_journal
+``#the_swamp_street_journal``
     Dagobah-specific media.
 
-#dagobah_tb_orders
+``#dagobah_tb_orders``
     Bot-only channel for platoon orders.
 
-#dagobah_ally_codes
+``#dagobah_ally_codes``
     Share your ally code and swgoh.gg page here!
 
-#dagobah_screenshots
+``#dagobah_screenshots``
     Channel for activity tracking via screenshots.
 
-#dagobah_raid_schedule
+``#dagobah_raid_schedule``
     Channel for the raid calendar. The Discord post is official.
 
 FAQ
 ===
 
+Q: An officer told me my tickets need to be reset. What does that mean?
+
+A: It means you'll be removed and immediately reinvited to the guild. 
+
 Q: What do I do if I can't make my 600 or participate for a while?
 
-A: Make a post in #leave_of_absence tagging @DaOfficers. 
+A: Make a post in ``#leave_of_absence`` tagging ``@DaOfficers``. 
 
-Q: What do I do if I don't understand the orders for TB/TW?
+Q: What do I do if I don't understand the posted orders?
 
-A: Tag @DaOfficers or the relevant Officer in Charge in #dagobah_chat.
+A: Tag ``@DaOfficers`` or the relevant OiC in ``#dagobah_chat``.
 
 Q: I was removed from the guild and missed out on raid rewards. What happened?
 
