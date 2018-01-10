@@ -48,7 +48,7 @@ Officer in Charge of Recruiting: Calliope
     Responsible for coordinating recruiting efforts with the GL and CRO on The Republic Embassy server, ensuring recruits are prepared to meet our standards, and providing invites and orientation to new recruits upon joining Dagobah.
 
 Officer in Charge of Journalism and Morale: Energi Storm
-    Responsible for tracking player development, acting as editior-in-chief the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐉`` tag each month to members that met the previous month's farming goals.
+    Responsible for tracking player development, acting as editior-in-chief the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag each month to members that met the previous month's farming goals.
 
 General Officers: Escobar, Adam3700
     Responsible for assisting other officers in their duties as needed.
@@ -144,10 +144,10 @@ Don't make us bring the 👑Swamp King👑 into this...
 
 .. image:: bigsuejackson.gif
 
-@🐉Dagobah Dragonsnakes🐉 
+@🐉Dagobah Dragonsnakes🐍
 -------------------------
 Every month the Dagobah leadership will choose a farming focus to promote roster development that helps the entire guild.
-Successful completion of the farming goals by the end of the month will earn a member the ``@🐉Dagobah Dragonsnakes🐉`` Discord tag for the following month.
+Successful completion of the farming goals by the end of the month will earn a member the ``@🐉Dagobah Dragonsnakes🐍`` Discord tag for the following month.
 
 Rules of Engagement
 ===================
