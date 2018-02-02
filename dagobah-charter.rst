@@ -20,48 +20,38 @@ Raid Times (rotating)
 
     4pm EST/9pm GMT/1pm PST
 
-Tickets Due (2 hours before reset)
-    6:30pm EST/11:30pm GMT/3:30pm PST
+Tickets Due (1 hour before reset)
+    7:30pm EST/12:30am GMT/4:30pm PST
 
 Officers
 ========
 
 Guild Leader: zig
-    Responsible for leading the officer corps, chairing guild meetings, and the overall success of the guild.
+    The GL leads the officer corps and represents Dagobah in the Small Council. In addition, the GL arranges player transfers, interviews prospects, chairs guild meetings, and is responsible for the overall success of the guild.
 
 Community Relations Officer: Pone
-    Responsible for maintaining close ties with other Republic guilds and a presense in the Large Council, arranging player transfers, and serving as guild leader *pro tempore* in the event of the guild leader's absence.
+    The CRO focuses primarily on maintaining close ties with other Republic guilds and representing Dagobah in the Large Council. Like the GL, the CRO also arranges player transfers, interviews prospects, and serves as guild leader *pro tempore* in the event of the guild leader's absence.
 
-Officer in Charge of Raids: Calliope (acting)
-    Responsible for maintaining the raid schedule, raiding records, and assigning Bievers.
+Game Ops Team: Pone, Calliope, Brush Leonidas
+    The Game Ops officers take point on TB, TW, and Raids. They're responsible for maintaining the raid schedule, the overall Territory Battle strategy, platoon orders, and Territory Wars defense/attack plans. They're also responsible for assigning raid, CM, platoon, deployment, and TW strikes as required.
 
-Officer in Charge of Territory Battles: Pone
-    Responsible for the overall Territory Battle strategy, platoon orders, and assigning CM, platoon, and deployment strikes.
+Morale and Compliance Team: Energi Storm, Chocolate, NooGenii, Escobar
+    The Morale and Compliance officers drive Dagobah's Discord activity and sense of community. They're responsible for coordinating ticket tracking efforts, arranging alts when required, tracking player development, generating media for the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag to members that meet the monthly farming goal. They're also responsible for assigning ticket strikes, arranging roster reviews, running various guild promotions, and driving the conversation in `#dagobah_chat`.
 
-Officer in Charge of Territory Wars: (vacant)
-    Responsible for Territory Wars defense/attack plans and assigning violation strikes.
-
-Officer in Charge of Ticket Monitoring: Chocolate
-    Responsible for coordinating who will be tracking tickets each day as well as approving alts and assigning ticket strikes.
-
-Officer in Charge of Recruiting: Calliope
-    Responsible for coordinating recruiting efforts with the GL and CRO on The Republic Embassy server, ensuring recruits are prepared to meet our standards, and providing invites and orientation to new recruits upon joining Dagobah.
-
-Officer in Charge of Journalism and Morale: Energi Storm
-    Responsible for tracking player development, acting as editior-in-chief the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag each month to members that met the previous month's farming goals.
-
-General Officers: Escobar, Adam3700
-    Responsible for assisting other officers in their duties as needed.
+Recruiting Team: zig, Pone, Calliope, NooGenii
+    Responsible for coordinating with other Republic recruiters on The Republic Embassy server. Dagobah's overall recruiting efforts and, shard chats, EA forums, Reddit, and more. The recruiting team 
 
 General Rules
 =============
 
 Discord
 -------
-You must be active on Discord.
-This is essential because all orders and announcements will be posted to Discord.
+You must be active on Discord on a daily basis.
+The officers use this resource to commuicate important information, including TB orders, TW plans, and Raid announcements.
 Furthermore, as part of the Republic, you have access to some of the greatest theorycrafting minds in the game.
-Not utilizing those resources shows a lack of drive to improve your gameplay.
+We're a home to Game Changers and other tremendous content content creators.
+Ask questions in the SWGOH Game Chat category of the server and you'll get answers from experienced pros.
+Utilizing these resources demonstrates a drive to improve your gameplay, so we take it very seriously.
 
 swgoh.gg
 --------
@@ -69,30 +59,28 @@ All members must have a **public** swgoh.gg profile.
 Our leadership resources make use of data fetched from these profiles.
 It is one of our best tools for tracking roster progression and planning Territory Battles.
 It is imperative that all members make their roster public. 
-(If you require assistance with this, please contact an officer immediately.)
+(If you require assistance with this, please contact a Morale and Compliance officer immediately.)
 
 Raid Tickets
 ------------
 Raid rewards are essential to player development, therefore all members must generate the maximum of 600 tickets per day.
-These tickets will be due 2 hours before guild reset.
-After that time, you risk being removed for an alt.
-Members will not be removed for tickets during a Territory Battle except in the event of a third strike.
-
-.. caution:: The window for resets after TB is frequently very small. If you missed your 600 during TB, make sure to log on and claim your rewards as early as possible to prevent losing them!
+These tickets are due 1 hour before guild reset.
+After that time, you are likely to be removed for an alt.
+Members will not be removed for tickets during a Territory Battle, however strikes will still apply.
 
 Raids
 -----
 Raids run on a tight schedule that maximizes our ticket utilization.
-You can find the schedule in the ``#dagobah_raid_schedule`` channel.
-Members are required to strictly adhere to both the schedule and the `Rules of Engagement`_.
-Missing a raid entirely earns you the dreaded Biever avatar (see `Justin Biever`_).
+The schedule is maintained via a Google calendar.
+You can find the link in the ``#0----dagobah----0`` channel.
+Members are required to strictly adhere to both the schedule and the Rules of Engagement.
+See the `Raid Rules of Engagement`_ for more information.
 
 Territory Battles
 -----------------
 Dagobah's main focus for development is Territory Battles, so it's imperative that members participate fully and carefully follow orders.
 Combat missions are required because they are the most efficient way to maximize our star count.
-Platoon orders will be posted to the ``#dagobah_tb_orders`` channel.
-Deployment orders will be posted to the ``#dagobah_annoucements`` channel.
+Platoon, deployment, and CM orders will be posted to the ``#dagobah_tb_orders`` channel.
 See the `Territory Battles Rules of Engagement`_ for more information.
 
 Territory Wars
@@ -104,17 +92,19 @@ See the `Territory Wars Rules of Engagement`_ for more information.
 Strikes
 -------
 Dagobah uses a three strike system to determine if and when a member should be removed to make room for a new recruit. 
-Individual strikes come with no additional penalty, but reaching three strikes will result in removal from the guild.
+Individual strikes come with one additional penalty---the Biever avatar.
+See `Justin Biever`_ for more information.
+Reaching three strikes will prompt the officers to consider removing you from the guild.
 The officers will do their best to help you find alternate placement if that situation arises.
 The following actions earn a strike:
 
-* failure to complete your 600 by 2 hours before reset
+* failure to complete your 600 by 1 hour before reset
 
 * failure to adhere to the `Rules of Engagement`_ for Raids, Territory Battles, or Territory Wars. Some examples include:
 
-    * posting damage to either raid outside of designated times
+    * posting damage of any amount to either raid outside of designated times
 
-    * assigning characters to platoons not marked safe in ``#dagobah_tb_orders``
+    * assigning characters to platoons other than those marked safe in ``#dagobah_tb_orders``
 
     * failing to attempt CMs in any phase of TB
 
@@ -122,16 +112,15 @@ The following actions earn a strike:
 
 Strikes expire one month from the day of the offense.
 Members cannot earn more than one strike per day.
-Members cannot earn a missed CMs strike in a TB phase where we've 3 starred all territories.
+Members cannot earn a TB strike in a phase where we've 3 starred all territories and filled all safe platoons.
 If you cannot meet these requirements for any length of time, please post in ``#leave_of_absence`` tagging ``@DaOfficers``.
 
 Justin Biever
 -------------
-As a means of boosting morale and participation, Dagobah assigns the Biever avatar to members who miss a raid entirely without giving prior notice in ``#leave_of_absence``.
-The Biever expires when the rewards drop for the next of the same raid type---two days for Rancor, three days for HAAT.
-See below for the infamous picture.
-
-.. image:: justin-biever.png
+Dagobah assigns the Biever avatar to members who receive a strike as a friendly and funny way to keep morale high and remind us all that everyone makes mistakes.
+Changing you avatar is a show of good faith and your intention to live up to rules in the future.
+Bievers expire 3 days after the date of the strike.
+See the `#0----dagobah----0` channel for the most recent version of the infamous picture.
 
 Decorum
 -------
@@ -140,55 +129,48 @@ Treat your other guild members kindly and support their farming efforts.
 Treat your officers with respect.
 They put in many hours of effort each week to keep Dagobah operating smoothly.
 Keep it PG-13 in ``#dagobah_chat``.
-Don't make us bring the 👑Swamp King👑 into this...
-
-.. image:: bigsuejackson.gif
+We're a team---staying supportive keeps morale high and the gameplay fun!
 
 @🐉Dagobah Dragonsnakes🐍
 -------------------------
-Every month the Dagobah leadership will choose a farming focus to promote roster development that helps the entire guild.
-Successful completion of the farming goals by the end of the month will earn a member the ``@🐉Dagobah Dragonsnakes🐍`` Discord tag for the following month.
+Every TB the Dagobah leadership will choose a farming goal to promote roster development that helps the entire guild.
+Successful completion of the farming goal will earn a member the ``@🐉Dagobah Dragonsnakes🐍`` Discord tag until the next cycle.
+Being a Dragonsnake gives you more than just bragging rights.
+It also gives you a chance at an expert roster review!
+Members with the tag will be chosen at random to receive these reviews whenever reviewers are available, so make sure to keep working toward these goals!
 
 Rules of Engagement
 ===================
 
-Rancor Rules of Engagement
---------------------------
-* Opens for a 24 hour 0 damage period immediately after launch.
-
-* The free for all starts 24 hours after launch.
-
-* Wait 20 minutes if posting more than 1 million damage.
-
-HAAT Rules of Engagement
+Raid Rules of Engagement
 ------------------------
-* Opens for a 24 hour 0 damage period immediately after launch.
+* Raids opens for a roughly 24 hour 0 damage period immediately after launch.
 
-* The free for all starts 24 hours after launch.
+* The free for all starts about 24 hours after launch.
 
-* There are no damage or time restrictions.
+* Wait 10 minutes past the scheduled completion time before posting any damage to either raid.
 
 Territory Battles Rules of Engagement
 -------------------------------------
 * Follow all platoons orders.
 
-* Attempt all Combat Missions.
+* Attempt all Combat Missions---they're the best way to boost our score and earn stars.
 
-* Deploy as directed.
+* Deploy as directed on Discord.
 
 Territory Wars Rules of Engagement
 ----------------------------------
 * Follow the strategy as indicated on Discord.
 
-* Deploy only teams meeting the requirements described on Discord.
+* Deploy only defensive teams that meet the requirements described on Discord.
 
-* Make a serious attempt at attacking. Contact the OiC of TWs if you attempted to attack but lost all of your battles so we're aware you won't have any offensive banners earned.
+* Make a serious attempt at attacking. Contact the Game Ops team if you attempted to attack but lost all of your battles so we know you won't have any offensive banners earned.
 
 Discord Map
 ===========
 
 ``#0----dagobah----0``
-    Location of the charter, Biever avatar, and charter updates between revisions.
+    Location of the charter, the raid schedule, the latest Biever avatar, and charter updates between revisions.
 
 ``#dagobah_announcements``
     Channel for officer announcements and orders.
@@ -205,21 +187,11 @@ Discord Map
 ``#dagobah_tb_orders``
     Bot-only channel for platoon orders.
 
-``#dagobah_ally_codes``
-    Share your ally code and swgoh.gg page here!
-
 ``#dagobah_screenshots``
-    Channel for activity tracking via screenshots.
-
-``#dagobah_raid_schedule``
-    Channel for the raid calendar. The Discord post is official.
+    Share your ally code, swgoh.gg link, and triumphant screenshots here!
 
 FAQ
 ===
-
-Q: An officer told me my tickets need to be reset. What does that mean?
-
-A: It means you'll be removed and immediately reinvited to the guild. 
 
 Q: What do I do if I can't make my 600 or participate for a while?
 
@@ -227,12 +199,8 @@ A: Make a post in ``#leave_of_absence`` tagging ``@DaOfficers``.
 
 Q: What do I do if I don't understand the posted orders?
 
-A: Tag ``@DaOfficers`` or the relevant OiC in ``#dagobah_chat``.
+A: Tag ``@DaOfficers`` or the Game Ops team in ``#dagobah_chat``.
 
 Q: I was removed from the guild and missed out on raid rewards. What happened?
 
-A: You probably missed your 600 for the day. Contact the OiC of Ticket Monitoring if you think there's been a mistake.
-
-Q: I was removed from the guild after reset and I know I got my 600. What gives?
-
-A: Your lifetime ticket count was reset due to a missed 600 sometime during TB or a holiday grace period. Contact the OiC of Ticket Monitoring if you think there's been a mistake.
+A: You probably missed your 600 for the day. Contact the Morale and Compliance team if you think there's been a mistake.
