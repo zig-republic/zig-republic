@@ -36,10 +36,10 @@ Game Ops Team: Pone, Calliope, Brush Leonidas
     The Game Ops officers take point on TB, TW, and Raids. They're responsible for maintaining the raid schedule, the overall Territory Battle strategy, platoon orders, and Territory Wars defense/attack plans. They're also responsible for assigning raid, CM, platoon, deployment, and TW strikes as required.
 
 Morale and Compliance Team: Energi Storm, Chocolate, NooGenii, Escobar
-    The Morale and Compliance officers drive Dagobah's Discord activity and sense of community. They're responsible for coordinating ticket tracking efforts, arranging alts when required, tracking player development, generating media for the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag to members that meet the monthly farming goal. They're also responsible for assigning ticket strikes, arranging roster reviews, running various guild promotions, and driving the conversation in `#dagobah_chat`.
+    The Morale and Compliance officers drive Dagobah's Discord activity and sense of community. They're responsible for coordinating ticket tracking efforts, arranging alts when required, tracking player development, generating media for the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag to members that meet the monthly farming goal. They're also responsible for assigning ticket strikes, arranging roster reviews, running various guild promotions, and driving the conversation in ``#dagobah_chat``.
 
 Recruiting Team: zig, Pone, Calliope, NooGenii
-    Responsible for coordinating with other Republic recruiters on The Republic Embassy server. Dagobah's overall recruiting efforts and, shard chats, EA forums, Reddit, and more. The recruiting team 
+    Responsible for coordinating with other Republic recruiters on The Republic Embassy server. Dagobah's overall recruiting efforts and, shard chats, EA forums, Reddit, and more. 
 
 General Rules
 =============
@@ -173,7 +173,7 @@ Discord Map
     Location of the charter, the raid schedule, the latest Biever avatar, and charter updates between revisions.
 
 ``#dagobah_announcements``
-    Channel for officer announcements and orders.
+    Channel for announcements, orders, etc.
 
 ``#dagobah_chat``
     Channel for general chat.
@@ -185,7 +185,7 @@ Discord Map
     Dagobah-specific media.
 
 ``#dagobah_tb_orders``
-    Bot-only channel for platoon orders.
+    All TB related orders can be found here.
 
 ``#dagobah_screenshots``
     Share your ally code, swgoh.gg link, and triumphant screenshots here!
