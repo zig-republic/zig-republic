@@ -39,7 +39,7 @@ Morale and Compliance Team: Energi Storm, Chocolate, NooGenii, Escobar
     The Morale and Compliance officers drive Dagobah's Discord activity and sense of community. They're responsible for coordinating ticket tracking efforts, arranging alts when required, tracking player development, generating media for the Swamp Street Journal, and assigning the ``@🐉Dagobah Dragonsnakes🐍`` tag to members that meet the monthly farming goal. They're also responsible for assigning ticket strikes, arranging roster reviews, running various guild promotions, and driving the conversation in ``#dagobah_chat``.
 
 Recruiting Team: zig, Pone, Calliope, NooGenii
-    Responsible for coordinating with other Republic recruiters on The Republic Embassy server. Dagobah's overall recruiting efforts and, shard chats, EA forums, Reddit, and more. 
+    Dagobah's recruiters are responsible for coordinating with other Republic recruiters on The Republic Embassy server. This includes doing first round interview with prospects, reaching out to competitive players via shard chats, the EA forums, and Reddit, and bumping Republic posts on those outlets.
 
 General Rules
 =============
