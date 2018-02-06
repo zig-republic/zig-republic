@@ -2,7 +2,7 @@
 DAGOBAH CHARTER
 ###############
 
-.. image:: dagobah-banner.jpg
+.. image:: dagobah-banner.png
 
 Mission
 =======
