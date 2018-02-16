@@ -2,6 +2,8 @@
 THE BYLAWS OF THE REPUBLIC
 ##########################
 
+.. image:: republic-galaxy-banner.jpg
+
 Name
 ====
 
@@ -93,8 +95,8 @@ Voting Procedures
 Due to the unique nature of the Senate's meeting on Discord, a traditional methods of voting, such as *viva voce* is undesireable.
 Instead the Senate shall vote on all main motions by way of Yeas and Nays by responding to a vote called by the Chancellor or Vice-Chancellor in the `#senate`_ channel.
 Each Senator shall be granted 24 hours to cast a vote either in the affirmative (Aye or Yea) or negative (No or Nay), after which the Chancellor shall announce the results.
-Subsidiary motions, for example a motion to postpone or table, shall be voted upon by way of :+1: and :-1: reactions to the motion as it appears in the `#senate`_ channel.
-Votes on subsidiary motions shall be taken immediately and without delay.
+Subsidiary motions, for example a motion to postpone or table, shall be voted upon by way of ``:+1:`` and ``:-1:`` reactions to the motion as it appears in the `#senate`_ channel.
+Votes on subsidiary motions shall be taken immediately and without delay and shall last no more than 15 minutes.
 
 Voting Standards
 ----------------
@@ -108,8 +110,8 @@ Definitions of Majority and Supermajority
 `````````````````````````````````````````
 Votes requiring a simple majority shall require a majority of those *present and voting*.
 Abstensions shall not effect the result of simple majority votes.
-Those votes requiring a supermajority shall require a two-thirds vote of all Senators.
-Abstensions in this case shall be have the effect of a negative vote.
+Those votes requiring a supermajority shall require a two-thirds vote of *all Senators*.
+Abstensions shall be have the effect of a negative vote in two-thirds votes.
 
 The Republic Forum
 ==================
@@ -121,7 +123,7 @@ The purpose of The Republic Forum (also known as "Blue Server"), is to provide a
 Required Channels
 -----------------
 The following channels shall be required for the normal functioning of The Republic Forum.
-Additional channels may be added or archived as required and at the discretion of the Chancellor or Vice-Chancellors.
+Additional channels may be added or archived as required at the discretion of the Chancellor or Vice-Chancellors.
 *Nota bene*: Deprecated channels on The Republic Forum may only be archived, not deleted.
 
 ``#senate``
