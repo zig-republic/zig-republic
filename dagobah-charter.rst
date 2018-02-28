@@ -32,7 +32,7 @@ Guild Leader: zig
 Community Relations Officer: Pone
     The CRO focuses primarily on maintaining close ties with other Republic guilds and representing Dagobah in the Large Council. Like the GL, the CRO also arranges player transfers, interviews prospects, and serves as guild leader *pro tempore* in the event of the guild leader's absence.
 
-Game Ops Team: Pone, Calliope, Brush Leonidas
+Game Ops Team: Pone, Calliope, Brush Leonidas, Acheron, Gkeeperz
     The Game Ops officers take point on TB, TW, and Raids. They're responsible for maintaining the raid schedule, the overall Territory Battle strategy, platoon orders, and Territory Wars defense/attack plans. They're also responsible for assigning raid, CM, platoon, deployment, and TW strikes as required.
 
 Morale and Compliance Team: Energi Storm, Chocolate, NooGenii, Escobar

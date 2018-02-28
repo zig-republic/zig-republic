@@ -77,11 +77,11 @@ Senate
 Senators
 --------
 Each partner guild shall be granted one seat in the Senate to be occupied by its Guild Leader or a duly appointed representative.
-The primary duty of a Senator is to represent his or her guildin all matters pertaining to The Republic at large.
+The primary duty of a Senator is to represent his or her guild in all matters pertaining to The Republic at large.
 
 Deputy Senators
 ---------------
-Each partner guild shall appoint one or more Deputy Senators to serve as Senator *pro tempore* if such need arises.
+Each partner guild shall appoint one or more Deputy Senators to serve as Senator *pro tempore* if the need arises.
 While this position is typically assigned to a guild's Community Relations Officer, this is not a requirement.
 
 Powers and Authority
@@ -89,6 +89,10 @@ Powers and Authority
 The Senate shall be the sole voting body of The Republic.
 All motions brought before the Senate must be sponsored and seconded by a Senator.
 All powers not otherwise delegated in these Bylaws shall rest with the Senate.
+
+Removing Executive Officers and Senators
+----------------------------------------
+**This section still under development**
 
 Voting Procedures
 -----------------
@@ -111,7 +115,7 @@ Definitions of Majority and Supermajority
 Votes requiring a simple majority shall require a majority of those *present and voting*.
 Abstensions shall not effect the result of simple majority votes.
 Those votes requiring a supermajority shall require a two-thirds vote of *all Senators*.
-Abstensions shall be have the effect of a negative vote in two-thirds votes.
+Abstensions shall have the effect of a negative vote in two-thirds votes.
 
 The Republic Forum
 ==================
@@ -131,10 +135,10 @@ Additional channels may be added or archived as required at the discretion of th
 The ``#senate`` channel shall serve as the floor of the Senate.
 This channel shall be utilized exclusively for the introduction of motions and casting of votes by Senators.
 It shall not, under any circumstances, be utilized for the purposes of dicussion.
-That said, each Senator shall maintain the right to post a single response to each main motion after it is made, in order for all officers to easily note the manner in which their Senator is representing their guild.
+That said, each Senator shall maintain the right, in the tradition of formal deabte, to post a single response to each main motion after it is made, in order for all officers to easily note the manner in which their Senator is representing their guild.
 When a vote has been called, Senators *must not post anything except to cast their vote*.
 Senators do not have a right to "explain their vote" in their Aye/No response.
-If a Senator wishes to provide additional context to their vote, it must be posted in `#all_officers`_.
+If a Senator wishes to provide additional context to their vote, it must be posted in ``#all_officers`` or the appropriate discussion channel.
 Viewing access to the ``#senate`` channel shall be granted to all officers, but posting access will be restricted to Senators.
 
 ``#all_officers``
@@ -142,12 +146,14 @@ Viewing access to the ``#senate`` channel shall be granted to all officers, but 
 The ``#all_officers`` channel shall serve as the primary venue for informal discussion of issues within the Republic.
 Its primary purpose is to allow all voices to be heard during the formulation of motions to be brought to the Senate floor.
 
+Discussion Channels
+-------------------
+Discussion channels shall be created, closed, and archived by the Chancellory as needed.
+The purpose of discussion channels is collaboration in the preparation of a formal document to be presented in the ``#senate`` channel.
+Access will be granted to Senators and Deputy Senators by default.
+
 Committees
 ==========
-
-Governance Committee
---------------------
-The Governance Committee shall be permanent fixture of The Republic and shall serve the purposes traditional assigned to committees titled Oversight Committee, Steering Committee, and Bylaws Committee.
 
 Standing Committees (also known as Function Groups)
 ---------------------------------------------------
@@ -159,19 +165,22 @@ Special Committees
 Special Committees shall be formed to address specific, one time needs of the Republic.
 Special Committees shall dissolve upon the completion of their object and the submission of their report.
 
-Appointment
------------
+Appointment of Committees
+-------------------------
 The Chancellor or his duly appointed representative shall appoint the members ofall newly formed committees pending an affirmative majority vote of the Small Council.
-Following the initial appointment of a Function Group or Special Committee, additional committee members may be appointed at the discretion of the Chancellor or Vice-Chancellor.
-Such secondary appointments may be reviewed by the Small Council, but a confirming vote is not required.
+Following the initial appointment of a Function Group or Special Committee, additional committee members may be appointed at the discretion of the Chancellor, Vice-Chancellor, or a majority vote of the committee itself.
+Such secondary appointments must be reported to the Senate, which reserves the power to review the appointment.
+However, a confirming vote is not required.
 
 Electing a Chair (also known as Point of Contact)
 -------------------------------------------------
 All committee's shall immediately elect their own Point of Contact by means of majority vote upon their first official meeting.
-In the event of a vacancy, the duties and powers of the Point of Contact shall devolve to the Chancellor until the next meeting of the Function Group, at which they must elect a new Point of Contact.
+In the event of a vacancy, the duties and powers of the Point of Contact shall devolve to the Chancellor until the next meeting of the Function Group, at which point their first order of business must be to elect a new Point of Contact.
 
 Discord
 =======
+
+**NOTA BENE: This section is still in draft and will reflect the Ban/Appeal process document currently in discussion.**
 
 Meetings
 --------
@@ -222,7 +231,6 @@ If the vote is lost, the member or guest's right to appeal has been met and the 
 Guild Membership
 ````````````````
 No policy outlined in this section or its subsections shall be construed as granting the Senate authority to remove a member from a Republic guild---this power lies solely in the hands of the Guild Leader.
-
 
 Additional Discord Procedures
 -----------------------------
