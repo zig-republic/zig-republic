@@ -63,7 +63,7 @@ Guild Leaders
 -------------
 A guild's in-game Guild Leader or a duly appointed representative shall occupy the chair of his or her guild.
 Guild Leaders shall have broad executive power to control the rules, regulations, and practices of their individual guilds according to each guild's internally developed practices.
-Guild Leader's shall be appointed or elected accoding to each guild's interally developed practices.
+Guild Leader's shall be appointed or elected according to each guild's internally developed practices.
 Guild Leader's shall hold their office until such time as they choose to resign.
 
 Community Relations Officers
@@ -96,7 +96,7 @@ Removing Executive Officers and Senators
 
 Voting Procedures
 -----------------
-Due to the unique nature of the Senate's meeting on Discord, a traditional methods of voting, such as *viva voce* is undesireable.
+Due to the unique nature of the Senate's meeting on Discord, a traditional methods of voting, such as *viva voce* is undesirable.
 Instead the Senate shall vote on all main motions by way of Yeas and Nays by responding to a vote called by the Chancellor or Vice-Chancellor in the `#senate`_ channel.
 Each Senator shall be granted 24 hours to cast a vote either in the affirmative (Aye or Yea) or negative (No or Nay), after which the Chancellor shall announce the results.
 Subsidiary motions, for example a motion to postpone or table, shall be voted upon by way of ``:+1:`` and ``:-1:`` reactions to the motion as it appears in the `#senate`_ channel.
@@ -113,7 +113,7 @@ A quorum shall consist of one-half of the Senate for the purposes of voting on s
 Definitions of Majority and Supermajority
 `````````````````````````````````````````
 Votes requiring a simple majority shall require a majority of those *present and voting*.
-Abstensions shall not effect the result of simple majority votes.
+Abstensions shall not affect the result of simple majority votes.
 Those votes requiring a supermajority shall require a two-thirds vote of *all Senators*.
 Abstensions shall have the effect of a negative vote in two-thirds votes.
 
@@ -122,7 +122,7 @@ The Republic Forum
 
 Purpose
 -------
-The purpose of The Republic Forum (also known as "Blue Server"), is to provide a venue for guild leadership to conduct business that effects The Republic as a whole.
+The purpose of The Republic Forum (also known as "Blue Server"), is to provide a venue for guild leadership to conduct business that affects The Republic as a whole.
 
 Required Channels
 -----------------
@@ -134,8 +134,8 @@ Additional channels may be added or archived as required at the discretion of th
 ```````````
 The ``#senate`` channel shall serve as the floor of the Senate.
 This channel shall be utilized exclusively for the introduction of motions and casting of votes by Senators.
-It shall not, under any circumstances, be utilized for the purposes of dicussion.
-That said, each Senator shall maintain the right, in the tradition of formal deabte, to post a single response to each main motion after it is made, in order for all officers to easily note the manner in which their Senator is representing their guild.
+It shall not, under any circumstances, be utilized for the purposes of discussion.
+That said, each Senator shall maintain the right, in the tradition of formal debate, to post a single response to each main motion after it is made, in order for all officers to easily note the manner in which their Senator is representing their guild.
 When a vote has been called, Senators *must not post anything except to cast their vote*.
 Senators do not have a right to "explain their vote" in their Aye/No response.
 If a Senator wishes to provide additional context to their vote, it must be posted in ``#all_officers`` or the appropriate discussion channel.
@@ -167,7 +167,7 @@ Special Committees shall dissolve upon the completion of their object and the su
 
 Appointment of Committees
 -------------------------
-The Chancellor or his duly appointed representative shall appoint the members ofall newly formed committees pending an affirmative majority vote of the Small Council.
+The Chancellor or his duly appointed representative shall appoint the members of all newly formed committees pending an affirmative majority vote of the Small Council.
 Following the initial appointment of a Function Group or Special Committee, additional committee members may be appointed at the discretion of the Chancellor, Vice-Chancellor, or a majority vote of the committee itself.
 Such secondary appointments must be reported to the Senate, which reserves the power to review the appointment.
 However, a confirming vote is not required.
@@ -251,7 +251,7 @@ These rules shall be stored in a single document, curated by the Library Functio
 
 Standing Rules
 --------------
-Standing Rules define the standard operating proceedures of the Republic leadership, including, but not limited to, recruiting methods, officer training, and guild onboarding.
+Standing Rules define the standard operating procedures of the Republic leadership, including, but not limited to, recruiting methods, officer training, and guild onboarding.
 
 Introduction of Standing Rules
 ``````````````````````````````
@@ -265,4 +265,4 @@ Amendments
 ==========
 Amendments to these Bylaws shall be adopted exclusively by passage of a resolution in written form.
 The document must be sponsored by a Senator and adopted by an affirmative two-thirds vote of all Senators.
-After adoption, the ammendment shall be appended as a new section within this article of the Bylaws.
+After adoption, the amendment shall be appended as a new section within this article of the Bylaws.
